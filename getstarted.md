@@ -1,4 +1,4 @@
-### Overview of steps required
+<h1> Overview of steps required </h1>
 
 There are only three simple steps, ....  
 
@@ -13,9 +13,9 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 ![Installation steps](assets/img/install-steps.gif)
 
 
-<div class="section-01">
+<div class="section-01", markdown="1">
 
-<h1>1. Fork this project</h1>
+### 1. Fork this project
   
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
   
