@@ -41,12 +41,18 @@ Note that this was the easy way to *create* your website, but it does come at a 
 </div>
 
 <style>
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
 
-.gs-section-01 h2 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
 }
 
 </style>
