@@ -14,10 +14,17 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div {
-  text-decoration-line: underline;
-  text-decoration-style: double;
-}>
+<div>
+<style>
+
+.gs-section-01 h3 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
 
 ### 1. Fork this project
 
