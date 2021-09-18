@@ -14,7 +14,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div align="center">
+<div color ="red">
 
 ### **1. Fork this project**
 
