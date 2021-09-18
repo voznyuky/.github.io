@@ -14,8 +14,9 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div align="left">
-    <color: red>
+<div align="left";
+    color: "red";
+     font-size: 30px;>
 
 ### 1. Fork this project
 
