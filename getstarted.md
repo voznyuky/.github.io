@@ -14,8 +14,8 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div align="left"; color: red; font-size: 30px>
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+<div align="left">
+    <color: red>
 
 ### 1. Fork this project
 
@@ -51,13 +51,3 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 </div>
 
-<style>
-
-.h1 { 
-     color: red }
-
-.hi {
-     font-size: 30px;
-}
-
-</style>
