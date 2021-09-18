@@ -14,17 +14,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div>
-<style>
-
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
-     font-size: 30px;
-}
-
-</style>
+<div align="center">
 
 ### 1. Fork this project
 
