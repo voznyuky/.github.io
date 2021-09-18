@@ -15,11 +15,22 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 <div class="gs-section-01" markdown="1">
-
+<h1>
 ### **1. Fork this project**
+</h1>  
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
+<style>
+
+.gs-section-01 h1 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
+}
+
+</style>
 </div>
 
 
