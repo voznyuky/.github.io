@@ -42,7 +42,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 <style>
 
-.gs-section-01 h1 { 
+.gs-section-01 h2 { 
      color: red }
 
 .gs-section-01 p {
