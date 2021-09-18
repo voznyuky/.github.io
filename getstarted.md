@@ -4,9 +4,9 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<style>
-  
 <div class="gs-section-01" markdown="1">
+
+<style>
 
 ### 1. Fork this project
 
@@ -55,10 +55,9 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
                 }
 
       
-
-</div>
-  
           </style>
+          
+</div>
 
 <div class="gs-section-01" markdown="1">
 
