@@ -13,13 +13,14 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 ![Installation steps](assets/img/install-steps.gif)
 
 
-<div class="section-01" markdown="1">
+<div class="section-01">
 
-### 1. Fork this project
+<h1>{{ ### 1. Fork this project }}</h1>
   
-Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
-
+{{ Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account. }}
+  
 </div>
+
 
 <style>
 .section-01 {
@@ -56,27 +57,3 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
 
 </div>
-
-
-
-<style>
-div.a {
-  color: green;
-  font-size: 30px;
-}
-
-div.b {
-  text-decoration-line: underline;
-  text-decoration-style: wavy;
-}
-
-div.c {
-  text-decoration-line: underline;
-  text-decoration-style: double;
-}
-
-div.d {
-  color: blue;
-  text-decoration-style: wavy;
-}
-</style>
