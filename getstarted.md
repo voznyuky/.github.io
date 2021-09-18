@@ -4,6 +4,8 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+<style>
+  
 <div class="gs-section-01" markdown="1">
 
 ### 1. Fork this project
@@ -11,7 +13,6 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
 
-<style>
 
                .pretty-text {
                   margin-top: 100px;
@@ -53,9 +54,11 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
                    box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
                 }
 
-                </style>
+      
 
 </div>
+  
+          </style>
 
 <div class="gs-section-01" markdown="1">
 
