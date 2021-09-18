@@ -14,7 +14,7 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div align="center">
+<div align="left"; color: red; font-size: 30px>
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
 
 ### 1. Fork this project
