@@ -14,9 +14,10 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div align="left";
-    color: "red";
-     font-size: 30px;>
+<div {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}>
 
 ### 1. Fork this project
 
