@@ -42,10 +42,10 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 <style>
 
-.gs-section-01 h3 { 
+.gs-section-01 { 
      color: red }
 
-.gs-section-01 p {
+.gs-section-01 {
      font-size: 30px;
 }
 
