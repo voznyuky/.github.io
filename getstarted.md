@@ -41,13 +41,12 @@ Note that this was the easy way to *create* your website, but it does come at a 
 </div>
 
 <style>
-          
-body {
-  background-color: lightblue;
+
+.gs-section-01 h1 { 
+     color: red }
+
+.gs-section-01 p {
+     font-size: 30px;
 }
 
-h6 {
-  color: navy;
-  margin-left: 20px;
-}
 </style>
