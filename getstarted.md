@@ -25,7 +25,7 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 h1 { 
      color: #b22222;
-     font-size: 30px;
+     font-size: 10px;
 }
 
 </style>
