@@ -41,12 +41,30 @@ Note that this was the easy way to *create* your website, but it does come at a 
 </div>
 
 <style>
-
-.gs-section-01 { 
-     color: red }
-
-.gs-section-01 {
-     font-size: 30px;
+  
+header { 
+  background-color: black; 
+  height: 60px;
+  padding: 40px 0px 0px 20px;
+} 
+  
+#site-title {
+  font-size: 120%;
+  text-transform: uppercase;
+  margin: 0px 30px 0px 0px;
 }
-
+  
+.navbar a {
+  color: white;
+  margin: 0px 15px 0px 0px;
+  font-family: Verdana,sans-serif;
+  font-size: 15px;
+  text-decoration: none;
+  line-height: 1.65;
+}
+  
+.navbar i {
+  color: white;
+}
+  
 </style>
