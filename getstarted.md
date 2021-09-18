@@ -6,56 +6,21 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 <div class="gs-section-01" markdown="1">
 
-<style>
-{
 ### 1. Fork this project
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.}
 
 
+<style>
 
-               .pretty-text {
-                  margin-top: 100px;
-                  margin-bottom: 100px;
-                  padding-left: 30px;
-                  padding-right: 30px;
-                  text-align: justify;
-               }
+.gs-section-01 h3 { 
+     color: red }
 
-               .pretty-text p {
-                   line-height: 1.8
-               }
+.gs-section-01 p {
+     font-size: 30px;
+}
 
-               .pretty-text h1 {
-                   color: darkred;
-                   font-size: 40px;
-                }
-
-               .pretty-text h2 {
-                   color: darkred;
-                   font-size: 30px;
-                   margin-top: 60px;
-                }
-
-                .pretty-text img {
-                   border: 1px solid #ddd;
-                   border-radius: 8px;
-                   padding: 5px;
-                   width: 400px;
-                   display: block;
-                   margin-left: auto;
-                   margin-right: auto;
-                   width: 50%;
-                   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 
-                               0 6px 20px 0 rgba(0, 0, 0, 0.19);
-                }
-
-                .pretty-text img:hover {
-                   box-shadow: 0 0 3px 1px rgba(0, 140, 186, 0.5);
-                }
-
-      
-          </style>
+</style>
           
 </div>
 
