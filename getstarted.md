@@ -14,10 +14,8 @@ Fork this project by clicking the __*Fork*__ button at the top right corner of t
 
 <style>
 
-.gs-section-01 h3 { 
-     color: red }
-
-.gs-section-01 p {
+.gs-section-01 h1 { 
+     color: red; 
      font-size: 30px;
 }
 
