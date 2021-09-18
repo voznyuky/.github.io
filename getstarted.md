@@ -14,21 +14,11 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 
 
-<div class="gs-section-01" markdown="1">
-<h1>
+<div class="a">
 1. Fork this project
-</h1>
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
-<style>
-
-h1 { 
-     color: #b22222;
-     font-size: 10px;
-}
-
-</style>
 </div>
 
 
@@ -61,3 +51,48 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 </div>
 
+
+
+<head>
+<style>
+div.a {
+  color: green;
+  font-size: 30px;
+}
+
+div.b {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+
+div.c {
+  text-decoration-line: underline;
+  text-decoration-style: double;
+}
+
+div.d {
+  color: blue;
+  text-decoration-style: wavy;
+}
+</style>
+</head>
+<body>
+
+<h1>The text-decoration-style Property</h1>
+
+<div class="a">This is some text with a solid underline.</div>
+<br>
+
+<div class="b">This is some text with a wavy underline.</div>
+<br>
+
+<div class="c">This is some text with a double underline.</div>
+<br>
+
+<div class="d">This is some text with a wavy over- and underline.</div>
+
+<p><b>Note:</b> The text-decoration-line property is not supported in Edge prior 
+79.</p>
+
+</body>
+</md>
