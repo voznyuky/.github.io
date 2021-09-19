@@ -1,10 +1,8 @@
-<h1> Overview of steps required </h1>
+# Overview of steps required #
 
-There are only three simple steps, ....  
+## There are only three simple steps ## 
 
 Here is a 40-second video ....
-
-<img src="../img/install-steps.gif" style="width:100%;" alt="Installation steps" />
 
 Getting started is *literally* as easy as 1-2-3 :smile:
 
@@ -13,22 +11,14 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 ![Installation steps](assets/img/install-steps.gif)
 
 
-<div class="section-01", markdown="1">
+<div class="h3" markdown="1">
+
 
 ### 1. Fork this project
-  
+
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
-  
+
 </div>
-
-
-<style>
-.section-01 {
-  color: green;
-  font-size: 30px;
-}
-
-</style>
 
 <div class="gs-section-01" markdown="1">
 
@@ -57,3 +47,25 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
 
 </div>
+
+<style>
+h1{
+  font-size:calc(2em + 0.25vw) !important;
+  margin-top:160px !important;
+  margin-bottom:20px;
+  } 
+  
+h2{
+  font-size:calc(2em + 0.25vw) !important;
+  color: #995c00;
+  font-weight:300;
+  margin-top:40px !important;
+  margin-bottom:20px;
+  } 
+
+h3{
+  font-size:calc(1.4em + 0.25vw);
+  font-weight:300;
+  margin-top:20px !important;
+  margin-bottom:10px;} 
+</style>
