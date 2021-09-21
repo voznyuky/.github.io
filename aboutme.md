@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A peak into who I am
+subtitle: Fun facts.
 ---
 
 My name is Елена Вознюк. Some semi-rad things about me:
