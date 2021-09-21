@@ -109,7 +109,7 @@ post_search: true
 navbar-col: "#8a2be2"
 navbar-text-col: "#ffebcd"
 navbar-border-col: "#f0ffff"
-page-col: "#fff8dc"
+page-col: "antiquewhite"
 text-col: "#8b008b"
 link-col: "#1e90ff"
 hover-col: "#0085A1"
@@ -244,4 +244,3 @@ plugins:
 # 2fc73a3a967e97599c9763d05e564189
 
 
-theme: jekyll-theme-leap-day
