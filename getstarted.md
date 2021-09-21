@@ -10,15 +10,12 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
+<div class="step 1", markdown=1
 
-<div class="h3" markdown="1">
-
-
-### 1. Fork this project
+### 1. Fork this project ###
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 
-</div>
 
 <div class="gs-section-01" markdown="1">
 
@@ -49,23 +46,5 @@ Note that this was the easy way to *create* your website, but it does come at a 
 </div>
 
 <style>
-h1{
-  font-size:calc(2em + 0.25vw) !important;
-  margin-top:160px !important;
-  margin-bottom:20px;
-  } 
-  
-h2{
-  font-size:calc(2em + 0.25vw) !important;
-  color: #995c00;
-  font-weight:300;
-  margin-top:40px !important;
-  margin-bottom:20px;
-  } 
-
-h3{
-  font-size:calc(1.4em + 0.25vw);
-  font-weight:300;
-  margin-top:20px !important;
-  margin-bottom:10px;} 
+h3 {text: bold} 
 </style>
