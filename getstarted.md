@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Overview of steps required #
 
 ## There are only three simple steps ## 
