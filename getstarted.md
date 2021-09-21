@@ -10,12 +10,12 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div class="step 1", markdown=1
+<div class="step1", markdown=1>
 
 ### 1. Fork this project ###
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
-
+</div>
 
 <div class="gs-section-01" markdown="1">
 
@@ -46,5 +46,5 @@ Note that this was the easy way to *create* your website, but it does come at a 
 </div>
 
 <style>
-h3 {text: bold} 
+.step1 h3 {color: blue} 
 </style>
