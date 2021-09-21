@@ -12,8 +12,7 @@ title: CPP 527 - Lab 05
 author: Yelena Voznyuk
 
 # Short description of your site
-description: A virtual proof that I am barely surviving the pandemic while working from home full time and taking online classes. I cry a lot. Because I am tired.
-#pleasesendhelp
+description: A virtual proof that I am surviving the pandemic while working from home full time and taking online classes. 
 
 # --- List of links in the navigation bar --- #
 
@@ -25,7 +24,6 @@ navbar-links:
     - Getting Started: "getstarted"  
   Author's home: "https://deanattali.com"
   Table Demo: "table-demo" 
-  Liquid Table: "img"
 
 # --- Logo --- #
 
