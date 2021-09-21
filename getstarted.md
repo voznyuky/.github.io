@@ -190,9 +190,9 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 <style>
 .gs-section-01 h3 {color: red} 
   
-.gs-section-02 h3 {color: red}
+.gs-section-02 h3 {color: orange}
   
-.gs-section-03 h3 {color: red} 
+.gs-section-03 h3 {color: green} 
   
-.gs-section-04 h3 {color: red}   
+.gs-section-04 h3 {color: blue}   
 </style>
