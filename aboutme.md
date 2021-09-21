@@ -4,7 +4,7 @@ title: About me
 subtitle: 2 truths and a lie.
 ---
 
-My name is Елена Вознюк. I have the following semi-rad qualities, though one is not true:
+My name is Елена Вознюк. Two semi rad things have happened in my life:
 
 - My parents hit the lottery but want all the kids to be independent and that's why I'm in grad school instead of on a yacht.
 - I have met the entire Obama family; got a hug from Barack and Michelle.
