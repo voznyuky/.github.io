@@ -1,13 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 2 truths and a lie.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Елена Вознюк. I have the following semi-rad qualities, though one is not true:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- My parents hit the lottery but want all the kids to be independent and that's why I'm in grad school instead of on a yacht.
+- I have met the entire Obama family; got a hug from Barack and Michelle.
+- At the age of 29 I survived cardiac arrest when enzymes from the liver got to my heart.
 
 What else do you need?
 
