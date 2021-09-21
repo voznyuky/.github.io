@@ -14,14 +14,14 @@ Scroll down to see the steps involved, but here is a 40-second video just as a r
 
 ![Installation steps](assets/img/install-steps.gif)
 
-<div class="step1", markdown=1>
+<div class="gs-section-01" markdown="1">
 
 ### 1. Fork this project ###
 
 Fork this project by clicking the __*Fork*__ button at the top right corner of this page. Forking means that you now copied this entire project and all the files into your account.
 </div>
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-02" markdown="1">
 
 ### 2. Rename the project to `<yourusername>.github.io`
 
@@ -29,7 +29,7 @@ Click on __*Settings*__ at the top (the cog icon) and on that page you'll have a
 </div>
 
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-03" markdown="1">
 
 ### 3. Customize your website settings
 
@@ -39,7 +39,7 @@ Note that in the video above only one setting in the `_config.yml` file is edite
 </div>
 
 
-<div class="gs-section-01" markdown="1">
+<div class="gs-section-04" markdown="1">
 
 ### 4. Congratulations! You have a website!
 
@@ -50,5 +50,5 @@ Note that this was the easy way to *create* your website, but it does come at a 
 </div>
 
 <style>
-.step1 h3 {color: blue} 
+.gs-section-01 h3 {color: blue} 
 </style>
