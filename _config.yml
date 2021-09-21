@@ -36,7 +36,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-profile picture: "/Users/yelenavoznyuk/Documents/Profile Pic.jpg"
+#title-img: /path/to/image
 
 
 # --- Footer social media links --- #
