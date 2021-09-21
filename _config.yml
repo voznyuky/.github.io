@@ -47,11 +47,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
+#  facebook: deanattali
   github: daattali
   twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -109,7 +109,7 @@ post_search: true
 navbar-col: "#8a2be2"
 navbar-text-col: "#ffebcd"
 navbar-border-col: "#f0ffff"
-page-col: "antiquewhite"
+page-col: "#fff8dc"
 text-col: "#8b008b"
 link-col: "#1e90ff"
 hover-col: "#0085A1"
