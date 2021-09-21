@@ -6,7 +6,7 @@ subtitle: A peak into who I am
 
 My name is Елена Вознюк. Some semi-rad things about me:
 
-- My left shoulder is doulbe jointed and I can lock and twist my arms around my entire body.
+- My left shoulder is double jointed and I can lock and twist my arms around my entire body.
 - I have met the entire Obama family; got a hug from Barack and Michelle.
 - At the age of 29 I survived cardiac arrest when enzymes from the liver got to my heart.
 - I was born in a country that doesn't exist anymore; USSR.
